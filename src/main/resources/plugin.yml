@@ -1,0 +1,9 @@
+name: TwoWorlds
+version: '${project.version}'
+main: me.rixv.twoworlds.TwoWorldsPlugin
+api-version: 1.18
+commands:
+  survival:
+    usage: /<command>
+  creative:
+    usage: /<command>

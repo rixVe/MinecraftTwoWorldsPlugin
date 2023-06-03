@@ -1,0 +1,10 @@
+me\rixv\twoworlds\commands\SurvivalCommand.class
+me\rixv\twoworlds\files\FileManagement.class
+me\rixv\twoworlds\TwoWorldsPlugin.class
+me\rixv\twoworlds\commands\CreativeCommand.class
+me\rixv\twoworlds\listeners\PlayerQuitListener.class
+me\rixv\twoworlds\listeners\PortalCreateListener.class
+me\rixv\twoworlds\listeners\PlayerDieListener.class
+me\rixv\twoworlds\listeners\PlayerInteractListener.class
+me\rixv\twoworlds\listeners\PlayerJoinListener.class
+me\rixv\twoworlds\listeners\PlayerPortalListener.class
